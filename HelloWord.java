@@ -8,6 +8,6 @@ public class HelloWord {
 	public void syso() {
 		// TODO Auto-generated method stub
 	
-		System.out.print("Hello Word!");
+		System.out.print("Hello Word!xiugai");
 	}
 }
